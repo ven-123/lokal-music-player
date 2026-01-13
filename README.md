@@ -14,7 +14,6 @@ The application allows users to search for songs using a real API, play music, a
 - Progress bar with current time and duration
 - Tap on progress bar to seek
 - State management using Zustand
-- No mock or static data used
 
 ## Tech Stack
 
