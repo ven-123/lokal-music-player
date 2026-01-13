@@ -1,6 +1,6 @@
 # Lokal Music Player
 
-This is a simple music player mobile application built using React Native and Expo as part of an internship assignment.
+This is a simple music player mobile application built using React Native and Expo.
 
 The application allows users to search for songs using a real API, play music, and control playback through a mini player and a full screen player.
 
